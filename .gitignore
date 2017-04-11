@@ -95,3 +95,5 @@ people_wiki.csv
 
 # emacs files
 *~
+
+.DS_Store
