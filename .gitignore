@@ -90,6 +90,8 @@ ENV/
 
 # data
 fremont.csv
+amazon_baby.csv
+people_wiki.csv
 
 # emacs files
 *~
