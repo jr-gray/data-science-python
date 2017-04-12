@@ -1,34 +1,36 @@
 # Data Science Python Notebooks
 Data analysis and machine learning projects.
 
-## Python Pandas
-
-### [Fremont Bridge Analysis Part 1](https://github.com/william-gray/data-science-python/blob/master/Fremont_bridge_analysis/Bridge.ipynb)
-### [Fremont Bridge Analysis Part 2](https://github.com/william-gray/data-science-python/blob/master/Fremont_bridge_analysis/UnsupervisedAnalysis.ipynb)
-
-Analysis of bike traffic over time, on the Fremont bridge in Seattle. 
+ 
 
 ## ML-classification
 
-### Analyzing Product Sentiment
-Looks at reviews of items on amazon, and predicts whether the review is positive or negative.
+### [Product Sentiment Analysis](https://github.com/william-gray/data-science-python/blob/master/ML-classification/Analyzing%20Product%20Sentiment.ipynb)
+Classification model that predicts a class (positive/negative sentiment) from input features (text of the reviews, user profile information, etc.)
 
 ## ML-clustering
 
-### Related Article Clustering
+### [Related Article Clustering](https://github.com/william-gray/data-science-python/blob/master/ML-clustering/Related%20Article%20Clustering/Wikipedia_Related_Article_Clustering.ipynb)
 Analyzes text data to estimate related articles using a nearest neighbor model.
 
 ## ML-recommenderSystem
 
-### Song Recommender
-Song recommendation system using listen counts and artist / user features.
+### [Song Recommender](https://github.com/william-gray/data-science-python/blob/master/ML-recommenderSystem/Song%20Recommender.ipynb)
+Matrix factorization model that recommends songs based on data features. Performance is measured using a precision recall curve.
 
 ## ML-regression
 
-### Predicting House Prices
-Uses linear regression to predict house prices, based on the house's features.
+### [Predicting House Prices](https://github.com/william-gray/data-science-python/blob/master/ML-regression/PredictingHousePrices.ipynb)
+Linear regression model that predicts a continuous value (house price) from input features (square footage, # of bedrooms and bathrooms, etc.)
 
 ## ML-deepLearning
 
-### Image Classification
+### [Image Classification](https://github.com/william-gray/data-science-python/blob/master/ML-deepLearning/Image%20Classification%20with%20Deep%20Features.ipynb)
 Uses deep learning features to predict image contents.
+
+## Python Pandas
+
+### [Fremont Bridge Analysis Part 1](https://github.com/william-gray/data-science-python/blob/master/Fremont_bridge_analysis/Bridge.ipynb)
+### [Fremont Bridge Analysis Part 2](https://github.com/william-gray/data-science-python/blob/master/Fremont_bridge_analysis/UnsupervisedAnalysis.ipynb)
+Part 1: Analysis of Fremont Bridge bike traffic over time using pandas and matplotlib
+Part 2: Unsupervised Analysis using sklearn
