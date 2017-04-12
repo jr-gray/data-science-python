@@ -16,6 +16,11 @@ Looks at reviews of items on amazon, and predicts whether the review is positive
 ### Related Article Clustering
 Analyzes text data to estimate related articles using a nearest neighbor model.
 
+## ML-recommenderSystem
+
+### Song Recommender
+Song recommendation system using listen counts and artist / user features.
+
 ## ML-regression
 
 ### Predicting House Prices
