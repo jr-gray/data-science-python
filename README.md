@@ -1,9 +1,11 @@
-# data-science-ipython-notebooks
-Data analysis and machine learning done in Python.
+# Data Science Python Notebooks
+Data analysis and machine learning projects.
 
 ## Python Pandas
 
-### Fremont Bridge Analysis
+### [Fremont Bridge Analysis Part 1](https://github.com/william-gray/data-science-python/blob/master/Fremont_bridge_analysis/Bridge.ipynb)
+### [Fremont Bridge Analysis Part 2](https://github.com/william-gray/data-science-python/blob/master/Fremont_bridge_analysis/UnsupervisedAnalysis.ipynb)
+
 Analysis of bike traffic over time, on the Fremont bridge in Seattle. 
 
 ## ML-classification
@@ -25,3 +27,8 @@ Song recommendation system using listen counts and artist / user features.
 
 ### Predicting House Prices
 Uses linear regression to predict house prices, based on the house's features.
+
+## ML-deepLearning
+
+### Image Classification
+Uses deep learning features to predict image contents.
