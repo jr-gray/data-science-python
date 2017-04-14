@@ -28,6 +28,9 @@ Linear regression model that predicts a continuous value (house price) from inpu
 ### [Image Classification](https://github.com/william-gray/data-science-python/blob/master/ML-deepLearning/Image%20Classification%20with%20Deep%20Features.ipynb)
 Uses deep learning features to predict image contents.
 
+### [Image Retrieval](https://github.com/william-gray/data-science-python/blob/master/ML-deepLearning/NearestNeighborImageRetrieval.ipynb)
+Uses deep learning features and a nearest neighbor model to retrieve similar images.
+
 ## Python Pandas
 
 ### [Fremont Bridge Analysis Part 1](https://github.com/william-gray/data-science-python/blob/master/Fremont_bridge_analysis/Bridge.ipynb)
