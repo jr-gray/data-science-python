@@ -1,5 +1,5 @@
 # Data Science Python Notebooks
-Data analysis and machine learning projects.
+Data science and machine learning projects.
 
  
 
