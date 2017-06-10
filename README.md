@@ -1,5 +1,5 @@
 # Data Science Python Notebooks
-Data science and machine learning projects.
+Data science and machine learning projects, click each link to see the Jupyter notebook.
 
  
 
